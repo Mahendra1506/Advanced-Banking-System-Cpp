@@ -1,0 +1,6 @@
+account.txt
+history_*.txt
+*.exe
+a.exe
+tempCodeRunnerFile.*
+.sfdx/
