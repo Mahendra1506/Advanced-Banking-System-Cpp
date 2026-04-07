@@ -16,6 +16,15 @@ A console-based banking system developed in C++ using Object-Oriented Programmin
 - STL (vector, string)
 - File Handling (fstream)
 
+## 🔹 Key Concepts
+- OOP (Classes, Encapsulation)
+- Static variables for unique account numbers
+- File-based persistence
+- Modular design
+
+## 🔹 Author
+Mahendra Shetty
+
 ## 🔹 How to Run
 ```bash
 g++ Bank.cpp -o Bank
